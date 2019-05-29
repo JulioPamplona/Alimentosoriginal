@@ -1,7 +1,7 @@
 body {
     background: url(fondo.png); 
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
     font-size: 28px;
     background-attachment: fixed;
     color:#000000;
